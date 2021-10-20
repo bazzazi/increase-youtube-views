@@ -24,7 +24,10 @@ print("*************************************************************************
 
 # import kardan ketabkhane ha
 from selenium import webdriver
-import time
+import time, os
+
+# nasbe ketabkhane selenium, lotfan be internet vasl bashid!
+os.system("pip install selenium")
 
 # ijad dota list baraye link ha va driver ha
 # link video haye khod ra dar list links garar bedid
