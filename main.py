@@ -27,7 +27,17 @@ from selenium import webdriver
 import time, os
 
 # nasbe ketabkhane selenium, lotfan be internet vasl bashid!
-os.system("pip install selenium")
+# baraye windows
+try:
+    os.system("pip install selenium")
+except:
+    pass
+
+#baraye linux
+try:
+    os.system("pip3 install selenium")
+except:
+    pass
 
 # ijad dota list baraye link ha va driver ha
 # link video haye khod ra dar list links garar bedid
