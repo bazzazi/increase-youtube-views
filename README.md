@@ -7,7 +7,7 @@ This `Python` script will open two youtube videos and refresh pages each 60 seco
 
 ❗Try using different ***proxy*** for better performance.
 
-🟠 Replace **link1** and **link2** in script with your youtube videos link.
+🟠 Replace **Link1** and **Link2** in script with your youtube videos link.
 
 
 ## Platforms :iphone::computer:
